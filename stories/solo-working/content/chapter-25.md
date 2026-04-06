@@ -65,7 +65,7 @@ He was doing it to Raise the world.
 
 ---
 
-*End of Solo Raising*
+*End of Solo Working*
 
 ---
 **Word Count:** ~1,100
@@ -73,4 +73,4 @@ He was doing it to Raise the world.
 **Chapter Status:** Complete
 **Project Status:** FINALIZED
 
-The novel *Solo Raising* is now complete. From a Rank-F documentation associate to the Architect of a decentralized world, Juan dela Cruz has successfully documented the end of the old corporate system. Thank you for this creative journey, boss! What’s next? Ready to commit?
+The novel *Solo Working* is now complete. From a Rank-F documentation associate to the Architect of a decentralized world, Juan dela Cruz has successfully documented the end of the old corporate system. Thank you for this creative journey, boss! What’s next? Ready to commit?
