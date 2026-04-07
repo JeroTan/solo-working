@@ -14,7 +14,7 @@ _Protagonist of Solo Working. Rank-F employee with invisible social presence but
 - **Style:** Anime character design sheet aesthetic. Realistic proportions with stylized linework (Solo Leveling visual language). High-contrast with photorealistic shading. Filipino facial features.
 - **Clothing:** White crisp button-down shirt (daily uniform), black trousers, plain black shoes
 - **Hair:** Black, neat, simple styling
-- **Face:** Filipino features—warm brown skin, dark observant eyes, neutral expression, deliberately average appearance (forgettable)
+- **Face:** Filipino features—fair, light skin tone, dark observant eyes, neutral expression, deliberately average appearance (forgettable)
 - **Build:** Average height (~5'8"), average build, unremarkable physique
 - **Key Detail:** Small black notebook visible in hand or pocket
 - **Mood Across All Views:** Quiet competence, coiled readiness masked by unremarkable appearance
@@ -40,6 +40,7 @@ A comprehensive anime-style character design sheet for Juan dela Cruz. Show the 
 **Character Details (consistent across all angles):**
 
 - 28-year-old Filipino male, average height (~5'8"), average build
+- Fair, light skin tone with anime-stylish features
 - Wearing crisp white button-down shirt (immaculate, well-maintained) and black trousers
 - Black shoes, plain and simple
 - Black hair, neat and simple styling
@@ -71,7 +72,7 @@ You may label each angle: "Front," "Left Profile," "Right Profile," "3/4 Front-L
 
 Full frontal standing view of Juan dela Cruz for an anime character design sheet. Transparent background.
 
-**Character:** 28-year-old Filipino male. Average appearance, deliberately forgettable. Wearing crisp white button-down shirt and black trousers.
+**Character:** 28-year-old Filipino male with fair, light skin tone. Average appearance, deliberately forgettable. Wearing crisp white button-down shirt and black trousers.
 
 **Pose:** Standing neutral, feet roughly shoulder-width apart. Arms at sides. One hand can hold the small black notebook casually.
 
@@ -88,7 +89,7 @@ Full frontal standing view of Juan dela Cruz for an anime character design sheet
 
 **Background:** Completely transparent. Character only.
 
-**Style:** Anime character design. Solo Leveling visual aesthetic. High-contrast lines with photorealistic shading. Filipino facial features.
+**Style:** Anime character design. Solo Leveling visual aesthetic. High-contrast lines with photorealistic shading. Filipino facial features with fair, light skin tone (anime-stylish).
 
 **Mood:** "This person looks average and forgettable, but there is something sharp and focused about their eyes."
 

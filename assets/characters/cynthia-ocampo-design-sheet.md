@@ -5,9 +5,10 @@ description: "Character design reference for Cynthia Ocampo, Shadow Worker #2 of
 
 # Cynthia Ocampo — Character Design Sheet
 
-*Shadow Worker #2 of Solo Working. Rank-D project coordinator, formerly overworked before her Raise. Anime-style character design sheet format.*
+_Shadow Worker #2 of Solo Working. Rank-D project coordinator, formerly overworked before her Raise. Anime-style character design sheet format._
 
 **UNIVERSAL DESIGN SPECS:**
+
 - **Background:** Transparent (MUST be transparent—no environment, no shadows on ground)
 - **Character Only:** Full-body character isolation
 - **Style:** Anime character design sheet aesthetic. Realistic proportions with stylized linework (Solo Leveling visual language). High-contrast with photorealistic shading. Filipino facial features.
@@ -37,6 +38,7 @@ A comprehensive anime-style character design sheet for Cynthia Ocampo, a Rank-D 
 7. **Top-Down View** — Overhead perspective
 
 **Character Details (consistent across all angles):**
+
 - 35-40 year old Filipino female, Rank-D project coordinator
 - Wearing professional office attire: blouse/shirt, office pants or skirt, professional shoes
 - Black hair, medium length, often pulled back, showing signs of stress
@@ -48,13 +50,14 @@ A comprehensive anime-style character design sheet for Cynthia Ocampo, a Rank-D 
 - Visible signs of exhaustion from overwork, but eyes sharp and calculating
 
 **Style:**
+
 - Anime character design sheet format
 - High-contrast lines with photorealistic shading
 - Solo Leveling visual aesthetic applied to character design
 - Filipino facial features emphasized
 - Transparent background throughout (NO environment)
 
-**Annotation (Optional):** 
+**Annotation (Optional):**
 You may label each angle: "Front," "Left Profile," "Right Profile," "3/4 Front-L," "3/4 Front-R," "Back," "Top-Down"
 
 ---
@@ -74,6 +77,7 @@ Full frontal standing view of Cynthia Ocampo for an anime character design sheet
 **Expression:** Eyes sharp and intelligent despite visible tiredness. Stressed but composed. The expression of someone managing too much with extreme competence.
 
 **Details:**
+
 - Professional blouse/shirt: well-maintained but showing signs of stress
 - Black hair: medium length, often pulled back tight, showing stress
 - Eyes: sharp, calculating, intelligent, tired
@@ -100,6 +104,7 @@ Full left profile view of Cynthia Ocampo for an anime character design sheet. Ch
 **Pose:** Standing straight, facing left, neutral stance.
 
 **Details:**
+
 - Left profile showing stressed but determined expression
 - Sharp eye visible, showing intelligence and focus
 - Sharp nose and defined jawline (Filipino features)
@@ -127,6 +132,7 @@ Full right profile view of Cynthia Ocampo for an anime character design sheet. C
 **Pose:** Standing straight, facing right. Mirror composition of left profile.
 
 **Details:**
+
 - Right profile showing stressed but focused expression
 - Sharp eye visible, intelligent and calculating
 - Sharp facial features (Filipino heritage)
@@ -152,6 +158,7 @@ Full right profile view of Cynthia Ocampo for an anime character design sheet. C
 **Pose:** Standing neutral, body angled slightly left, face showing 3/4 view toward viewer.
 
 **Details:**
+
 - Face: 3/4 view showing sharp, intelligent eyes
 - Expression: stressed but composed, showing hidden strength
 - Professional office wear: well-maintained, showing stress
@@ -179,6 +186,7 @@ Full right profile view of Cynthia Ocampo for an anime character design sheet. C
 **Pose:** Standing neutral, body angled slightly right, face showing 3/4 view.
 
 **Details:**
+
 - Face: 3/4 view showing sharp, calculating gaze
 - Expression: showing stressed focus and hidden strength
 - Professional office wear: showing signs of stress
@@ -204,6 +212,7 @@ Full back view of Cynthia Ocampo for an anime character design sheet. Character 
 **Pose:** Standing straight, facing away from viewer, neutral stance.
 
 **Details:**
+
 - Back of head showing black hair pulled back
 - Shoulders: squared and controlled, showing quiet strength
 - Professional office wear: back view showing stress
@@ -230,6 +239,7 @@ Top-down/overhead view of Cynthia Ocampo for an anime character design sheet. Ch
 **Perspective:** 90-degree overhead angle, looking straight down.
 
 **Details:**
+
 - Hair: top view showing black hair pulled back
 - Shoulders: width and controlled posture visible from above
 - Professional office wear: shoulders and arms visible in top-down view
@@ -243,6 +253,6 @@ Top-down/overhead view of Cynthia Ocampo for an anime character design sheet. Ch
 
 ---
 
-*Character Design Sheet Version: 1.0*
-*Character: Cynthia Ocampo | Role: Shadow Worker #2 | Series: Solo Working*
-*Format: Comprehensive design sheet + individual angle prompts*
+_Character Design Sheet Version: 1.0_
+_Character: Cynthia Ocampo | Role: Shadow Worker #2 | Series: Solo Working_
+_Format: Comprehensive design sheet + individual angle prompts_

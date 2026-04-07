@@ -5,9 +5,10 @@ description: "Character design reference for Isabel Reyes, Arc 3 investigator of
 
 # Isabel Reyes — Character Design Sheet
 
-*Arc 3 Investigator of Solo Working. Rank-A Senior Auditor, sharp and perceptive. Anime-style character design sheet format.*
+_Arc 3 Investigator of Solo Working. Rank-A Senior Auditor, sharp and perceptive. Anime-style character design sheet format._
 
 **UNIVERSAL DESIGN SPECS:**
+
 - **Background:** Transparent (MUST be transparent—no environment, no shadows on ground)
 - **Character Only:** Full-body character isolation
 - **Style:** Anime character design sheet aesthetic. Realistic proportions with stylized linework (Solo Leveling visual language). High-contrast with photorealistic shading. Filipino facial features.
@@ -37,6 +38,7 @@ A comprehensive anime-style character design sheet for Isabel Reyes, a Rank-A Se
 7. **Top-Down View** — Overhead perspective
 
 **Character Details (consistent across all angles):**
+
 - 38-42 year old Filipino female, Rank-A Senior Auditor
 - Wearing structured professional blazer, office shirt, dress pants, practical shoes
 - Black hair shoulder-length or longer, pulled back or braided, practical
@@ -49,13 +51,14 @@ A comprehensive anime-style character design sheet for Isabel Reyes, a Rank-A Se
 - Expression: perceptive and skeptical, nothing escapes her attention
 
 **Style:**
+
 - Anime character design sheet format
 - High-contrast lines with photorealistic shading
 - Solo Leveling visual aesthetic applied to investigator character
 - Filipino facial features emphasized
 - Transparent background throughout (NO environment)
 
-**Annotation (Optional):** 
+**Annotation (Optional):**
 You may label each angle: "Front," "Left Profile," "Right Profile," "3/4 Front-L," "3/4 Front-R," "Back," "Top-Down"
 
 ---
@@ -75,6 +78,7 @@ Full frontal standing view of Isabel Reyes for an anime character design sheet. 
 **Expression:** Eyes sharp and perceptive, showing skepticism and intelligence. Professional courtesy masking keen observation. The expression of someone who sees everything.
 
 **Details:**
+
 - Structured business blazer: professional, well-fitted, showing competence
 - Office shirt: clean and practical
 - Black hair: shoulder-length or longer, pulled back, practical
@@ -102,6 +106,7 @@ Full left profile view of Isabel Reyes for an anime character design sheet. Char
 **Pose:** Standing straight, facing left, professional stance.
 
 **Details:**
+
 - Left profile showing sharp, intelligent features with perceptive expression
 - Eye visible, showing keen observation and skepticism
 - Sharp nose and defined features (Filipino heritage)
@@ -129,6 +134,7 @@ Full right profile view of Isabel Reyes for an anime character design sheet. Cha
 **Pose:** Standing straight, facing right. Mirror composition of left profile.
 
 **Details:**
+
 - Right profile showing intelligent, observant expression
 - Sharp eye visible, showing perceptiveness
 - Intelligent facial features (Filipino heritage)
@@ -154,6 +160,7 @@ Full right profile view of Isabel Reyes for an anime character design sheet. Cha
 **Pose:** Standing neutral, body angled slightly left, face showing 3/4 view toward viewer.
 
 **Details:**
+
 - Face: 3/4 view showing sharp, intelligent eyes
 - Expression: perceptive and skeptical, showing keen observation
 - Structured business blazer: professional and well-fitted
@@ -181,6 +188,7 @@ Full right profile view of Isabel Reyes for an anime character design sheet. Cha
 **Pose:** Standing neutral, body angled slightly right, face showing 3/4 view.
 
 **Details:**
+
 - Face: 3/4 view showing keen, intelligent gaze
 - Expression: showing perceptive observation and professional skepticism
 - Business blazer: structured and professional
@@ -206,6 +214,7 @@ Full back view of Isabel Reyes for an anime character design sheet. Character st
 **Pose:** Standing straight, facing away from viewer, professional stance.
 
 **Details:**
+
 - Back of head showing black hair pulled back, practical
 - Shoulders: controlled and professional, showing quiet authority
 - Business blazer: back view showing structure and professionalism
@@ -232,6 +241,7 @@ Top-down/overhead view of Isabel Reyes for an anime character design sheet. Char
 **Perspective:** 90-degree overhead angle, looking straight down.
 
 **Details:**
+
 - Hair: top view showing black hair pulled back
 - Shoulders: controlled and professional, showing quiet authority
 - Business blazer: shoulders and arms visible in top-down view
@@ -245,6 +255,6 @@ Top-down/overhead view of Isabel Reyes for an anime character design sheet. Char
 
 ---
 
-*Character Design Sheet Version: 1.0*
-*Character: Isabel Reyes | Role: Arc 3 Investigator | Series: Solo Working*
-*Format: Comprehensive design sheet + individual angle prompts*
+_Character Design Sheet Version: 1.0_
+_Character: Isabel Reyes | Role: Arc 3 Investigator | Series: Solo Working_
+_Format: Comprehensive design sheet + individual angle prompts_

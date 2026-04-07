@@ -5,9 +5,10 @@ description: "Character design reference for Rodel Magsino, Shadow Worker #1 of 
 
 # Rodel Magsino — Character Design Sheet
 
-*Shadow Worker #1 of Solo Working. Senior Associate, formerly burned-out before his Raise. Anime-style character design sheet format.*
+_Shadow Worker #1 of Solo Working. Senior Associate, formerly burned-out before his Raise. Anime-style character design sheet format._
 
 **UNIVERSAL DESIGN SPECS:**
+
 - **Background:** Transparent (MUST be transparent—no environment, no shadows on ground)
 - **Character Only:** Full-body character isolation
 - **Style:** Anime character design sheet aesthetic. Realistic proportions with stylized linework (Solo Leveling visual language). High-contrast with photorealistic shading. Filipino facial features.
@@ -37,6 +38,7 @@ A comprehensive anime-style character design sheet for Rodel Magsino, a Rank-C s
 7. **Top-Down View** — Overhead perspective
 
 **Character Details (consistent across all angles):**
+
 - 45-50 year old Filipino male, Rank-C senior associate
 - Wearing business casual attire: collared shirt (slightly worn), dress pants, simple shoes
 - Black or dark brown hair with visible graying, short and simple
@@ -48,13 +50,14 @@ A comprehensive anime-style character design sheet for Rodel Magsino, a Rank-C s
 - Visible signs of age and experience, but eyes show sharp intelligence
 
 **Style:**
+
 - Anime character design sheet format
 - High-contrast lines with photorealistic shading
 - Solo Leveling visual aesthetic applied to character design
 - Filipino facial features emphasized
 - Transparent background throughout (NO environment)
 
-**Annotation (Optional):** 
+**Annotation (Optional):**
 You may label each angle: "Front," "Left Profile," "Right Profile," "3/4 Front-L," "3/4 Front-R," "Back," "Top-Down"
 
 ---
@@ -74,6 +77,7 @@ Full frontal standing view of Rodel Magsino for an anime character design sheet.
 **Expression:** Eyes showing both tiredness and determination. Not young, not defeated—resilient. The expression of someone who has survived long enough to understand what matters.
 
 **Details:**
+
 - Collared shirt: slightly worn but well-maintained, shows age
 - Black/dark brown hair: short, simple, visible graying
 - Eyes: tired but intelligent, showing quiet strength
@@ -100,6 +104,7 @@ Full left profile view of Rodel Magsino for an anime character design sheet. Cha
 **Pose:** Standing straight, facing left, neutral stance.
 
 **Details:**
+
 - Left profile showing weathered but determined expression
 - Brown eye visible, showing intelligence and resilience
 - Prominent nose, strong jawline (Filipino features)
@@ -127,6 +132,7 @@ Full right profile view of Rodel Magsino for an anime character design sheet. Ch
 **Pose:** Standing straight, facing right. Mirror composition of left profile.
 
 **Details:**
+
 - Right profile showing determined, weary expression
 - Brown eye visible
 - Strong facial features (Filipino heritage)
@@ -152,6 +158,7 @@ Full right profile view of Rodel Magsino for an anime character design sheet. Ch
 **Pose:** Standing neutral, body angled slightly left, face showing 3/4 view toward viewer.
 
 **Details:**
+
 - Face: 3/4 view showing intelligent, determined eyes
 - Expression: tired but resolved, showing quiet purpose
 - Collared shirt: shows wear but is well-maintained
@@ -179,6 +186,7 @@ Full right profile view of Rodel Magsino for an anime character design sheet. Ch
 **Pose:** Standing neutral, body angled slightly right, face showing 3/4 view.
 
 **Details:**
+
 - Face: 3/4 view showing determined, intelligent gaze
 - Expression: showing resolve and quiet strength
 - Collared shirt: business casual, shows signs of wear
@@ -204,6 +212,7 @@ Full back view of Rodel Magsino for an anime character design sheet. Character s
 **Pose:** Standing straight, facing away from viewer, neutral stance.
 
 **Details:**
+
 - Back of head showing short black/dark brown hair with visible graying
 - Shoulders: strong and upright, showing quiet strength despite age
 - Collared shirt: back view showing wear and aging
@@ -230,6 +239,7 @@ Top-down/overhead view of Rodel Magsino for an anime character design sheet. Cha
 **Perspective:** 90-degree overhead angle, looking straight down.
 
 **Details:**
+
 - Hair: top view showing short black/dark brown hair with graying
 - Shoulders: width and strong posture visible from above
 - Collared shirt: shoulders and arms visible in top-down view
@@ -243,6 +253,6 @@ Top-down/overhead view of Rodel Magsino for an anime character design sheet. Cha
 
 ---
 
-*Character Design Sheet Version: 1.0*
-*Character: Rodel Magsino | Role: Shadow Worker #1 | Series: Solo Working*
-*Format: Comprehensive design sheet + individual angle prompts*
+_Character Design Sheet Version: 1.0_
+_Character: Rodel Magsino | Role: Shadow Worker #1 | Series: Solo Working_
+_Format: Comprehensive design sheet + individual angle prompts_
