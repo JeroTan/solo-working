@@ -11,6 +11,7 @@ _Arc 2 Antagonist of Solo Working. Rank-B Senior Manager, polished and calculati
 
 - **Background:** Transparent (MUST be transparent—no environment, no shadows on ground)
 - **Character Only:** Full-body character isolation
+- **Skin Tone:** Fair to light brown skin tone (anime-stylish, elite appearance)
 - **Style:** Anime character design sheet aesthetic. Realistic proportions with stylized linework (Solo Leveling visual language). High-contrast with photorealistic shading. Filipino facial features.
 - **Clothing:** Expensive, polished business wear — tailored suit jacket, dress shirt, tie, designer shoes. Immaculate and pristine.
 - **Hair:** Black, well-groomed, styled with intention

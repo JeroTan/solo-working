@@ -11,10 +11,11 @@ _Shadow Worker #1 of Solo Working. Senior Associate, formerly burned-out before 
 
 - **Background:** Transparent (MUST be transparent—no environment, no shadows on ground)
 - **Character Only:** Full-body character isolation
+- **Skin Tone:** Warm brown skin tone (Filipino heritage)
 - **Style:** Anime character design sheet aesthetic. Realistic proportions with stylized linework (Solo Leveling visual language). High-contrast with photorealistic shading. Filipino facial features.
 - **Clothing:** Business casual — collared shirt (any color), dress pants, simple shoes. Can show signs of wear (slightly wrinkled)
 - **Hair:** Black or dark brown, short, simple styling, shows some graying
-- **Face:** Filipino features—brown skin, tired but determined eyes, expression showing resilience, age ~45-50, visible signs of burnout before transformation
+- **Face:** Filipino features—warm brown skin, tired but determined eyes, expression showing resilience, age ~45-50, visible signs of burnout before transformation
 - **Build:** Average to slightly heavier build, showing signs of fatigue and desk work
 - **Key Detail:** Can hold company badge or documents, suggesting his desk work
 - **Mood Across All Views:** Weariness transforming into quiet purpose after being Raised. Resilience of experience.

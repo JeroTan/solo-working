@@ -11,10 +11,11 @@ _Shadow Worker #2 of Solo Working. Rank-D project coordinator, formerly overwork
 
 - **Background:** Transparent (MUST be transparent—no environment, no shadows on ground)
 - **Character Only:** Full-body character isolation
+- **Skin Tone:** Medium brown skin tone (Filipino heritage)
 - **Style:** Anime character design sheet aesthetic. Realistic proportions with stylized linework (Solo Leveling visual language). High-contrast with photorealistic shading. Filipino facial features.
 - **Clothing:** Professional office wear — blouse or shirt, office pants/skirt, professional shoes. Can show signs of stress (slightly disheveled)
 - **Hair:** Black, medium length, often pulled back, may look slightly tired
-- **Face:** Filipino features—light to medium brown skin, sharp intelligent eyes, expression showing stress and burnout before Raise, age ~35-40, visible tiredness
+- **Face:** Filipino features—medium brown skin, sharp intelligent eyes, expression showing stress and burnout before Raise, age ~35-40, visible tiredness
 - **Build:** Lean, athletic frame, showing signs of overwork and stress
 - **Key Detail:** Can hold spreadsheets, clipboard, or multiple documents, showing her coordinator role
 - **Mood Across All Views:** Overworked intensity transforming into quiet power after being Raised. Sharp competence masked by exhaustion.

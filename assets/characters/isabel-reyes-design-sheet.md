@@ -11,6 +11,7 @@ _Arc 3 Investigator of Solo Working. Rank-A Senior Auditor, sharp and perceptive
 
 - **Background:** Transparent (MUST be transparent—no environment, no shadows on ground)
 - **Character Only:** Full-body character isolation
+- **Skin Tone:** Medium brown skin tone (Filipino heritage)
 - **Style:** Anime character design sheet aesthetic. Realistic proportions with stylized linework (Solo Leveling visual language). High-contrast with photorealistic shading. Filipino facial features.
 - **Clothing:** Professional business wear — structured blazer, office shirt, dress pants, practical shoes. Clean and efficient.
 - **Hair:** Black, shoulder-length or longer, pulled back or braided, practical and professional
