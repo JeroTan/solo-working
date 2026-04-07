@@ -10,6 +10,7 @@ _Protagonist of Solo Working. Rank-F employee with invisible social presence but
 **UNIVERSAL DESIGN SPECS:**
 
 - **Background:** Transparent (MUST be transparent—no environment, no background elements, no office, no shadows on ground)
+- **Background Alternative:** If transparent background is not supported, use solid WHITE background instead
 - **Character Only:** Full-body character isolation
 - **Skin Tone:** Fair, light skin tone (anime-stylish aesthetic)
 - **Style:** Anime character design sheet aesthetic. Realistic proportions with stylized linework (Solo Leveling visual language). High-contrast with photorealistic shading. Filipino facial features.

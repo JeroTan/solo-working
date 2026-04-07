@@ -10,6 +10,7 @@ _Arc 2 Antagonist of Solo Working. Rank-B Senior Manager, polished and calculati
 **UNIVERSAL DESIGN SPECS:**
 
 - **Background:** Transparent (MUST be transparent—no environment, no shadows on ground)
+- **Background Alternative:** If transparent background is not supported, use solid WHITE background instead
 - **Character Only:** Full-body character isolation
 - **Skin Tone:** Fair to light brown skin tone (anime-stylish, elite appearance)
 - **Style:** Anime character design sheet aesthetic. Realistic proportions with stylized linework (Solo Leveling visual language). High-contrast with photorealistic shading. Filipino facial features.

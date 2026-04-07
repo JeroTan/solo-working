@@ -10,6 +10,7 @@ _Arc 3 Investigator of Solo Working. Rank-A Senior Auditor, sharp and perceptive
 **UNIVERSAL DESIGN SPECS:**
 
 - **Background:** Transparent (MUST be transparent—no environment, no shadows on ground)
+- **Background Alternative:** If transparent background is not supported, use solid WHITE background instead
 - **Character Only:** Full-body character isolation
 - **Skin Tone:** Medium brown skin tone (Filipino heritage)
 - **Style:** Anime character design sheet aesthetic. Realistic proportions with stylized linework (Solo Leveling visual language). High-contrast with photorealistic shading. Filipino facial features.
