@@ -21,11 +21,11 @@ description: "Generate character art for Juan dela Cruz, the Rank-F protagonist 
 
 Character illustration for "Solo Working," a Filipino office parody manhwa-style novel inspired by Solo Leveling. The character is Juan dela Cruz — a 27-year-old Filipino man, the weakest employee at a mid-tier IT company in BGC, Manila.
 
-**Physical appearance:** Filipino male, late 20s. Medium height and lean — not muscular, not imposing. The kind of face that disappears at a meeting. Sharp, quiet eyes that observe everything and reveal nothing. Short black hair, neatly combed — not stylish, just controlled. No beard. Expression: unreadable. Not blank — *processed.* Like he has already calculated the outcome of this scene and is waiting for everyone else to catch up.
+**Physical appearance:** Filipino male, late 20s. Medium height and lean — not muscular, not imposing. The kind of face that disappears at a meeting. Sharp, quiet eyes that observe everything and reveal nothing. Short black hair, neatly combed — not stylish, just controlled. No beard. Expression: unreadable. Not blank — _processed._ Like he has already calculated the outcome of this scene and is waiting for everyone else to catch up.
 
 **Clothing:** A slightly worn white button-down shirt, tucked in. Dark slacks. Black leather shoes, clean but not polished to shine. A company employee lanyard hangs around his neck. No accessories. Nothing that would attract attention. He carries a small black notebook in one hand — held casually, like a weapon he doesn't need to draw.
 
-**Posture:** Standing still. Arms at his sides or one hand holding the notebook. Not tense. Not relaxed. *Ready.* The posture of someone who has been overlooked his entire career and has decided to stop resenting it and start using it.
+**Posture:** Standing still. Arms at his sides or one hand holding the notebook. Not tense. Not relaxed. _Ready._ The posture of someone who has been overlooked his entire career and has decided to stop resenting it and start using it.
 
 **Lighting:** Harsh fluorescent from above — white, cold, merciless. The kind found only in corporate offices and hospital waiting rooms. It casts sharp shadows downward. His face is half-lit, half in shadow.
 

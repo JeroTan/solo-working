@@ -23,7 +23,7 @@ Character illustration for "Solo Working," a Filipino office parody manhwa-style
 
 **Physical appearance:** Filipino male, late 30s to early 40s. Tall, well-built — not from the gym, from genetics. Handsome in the way that photographs well at company events. His smile reaches his eyes automatically, trained over a career of lunches and dinners with clients. His hair is styled with effort that looks effortless. He looks like a LinkedIn profile that actually worked.
 
-**Clothing:** A well-fitted suit — not too expensive, not too modest. Exactly calibrated to communicate *senior manager* without threatening anyone higher up. A pocket square. Cufflinks — tasteful, not flashy. His shoes are polished. Everything about him says: *I belong in this room.* Nothing about him says: *I earned it.*
+**Clothing:** A well-fitted suit — not too expensive, not too modest. Exactly calibrated to communicate _senior manager_ without threatening anyone higher up. A pocket square. Cufflinks — tasteful, not flashy. His shoes are polished. Everything about him says: _I belong in this room._ Nothing about him says: _I earned it._
 
 **Posture:** Relaxed confidence. He leans slightly, one hand in his pocket, the other holding — depending on the scene — a coffee cup, a phone, or nothing at all. He takes up space without appearing to. He has been doing this for years.
 

@@ -25,7 +25,7 @@ Character illustration for "Solo Working," a Filipino office parody manhwa-style
 
 **Clothing:** A structured blazer — deep burgundy, olive, or dark teal — over a white blouse. Pressed trousers. Practical, professional heels. A lanyard with her audit credentials. She carries a document folder — not a tablet, not a laptop. Paper. She trusts documents she can hold. She does not trust systems she cannot audit.
 
-**Posture:** Precise and controlled. She stands or sits with the economy of motion of a person who has learned to make every action deliberate. She is never restless. When she is still, she is *thinking.*
+**Posture:** Precise and controlled. She stands or sits with the economy of motion of a person who has learned to make every action deliberate. She is never restless. When she is still, she is _thinking._
 
 **Expression:** Neutral to the outside observer. Analytically alive beneath it. Her eyes are the tell — they are always two questions ahead of whatever is being said. She is interviewing you right now. She started the moment you walked in.
 
@@ -37,7 +37,7 @@ Character illustration for "Solo Working," a Filipino office parody manhwa-style
 
 **Mood:** The most dangerous person in the building who is not Juan. She is not his enemy. She is the first person who might understand him — and that makes her the most threatening presence he has faced. Whether she becomes his greatest threat or his first real ally is yet to be determined.
 
-**Style:** Cinematic manhwa illustration. High contrast lines. Filipino facial features. She should feel like the kind of person who walks into a scene and immediately changes the power dynamic — not through force, but through *comprehension.*
+**Style:** Cinematic manhwa illustration. High contrast lines. Filipino facial features. She should feel like the kind of person who walks into a scene and immediately changes the power dynamic — not through force, but through _comprehension._
 
 **No text. No watermarks. No logos.**
 

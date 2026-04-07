@@ -27,7 +27,7 @@ Character illustration for "Solo Working," a Filipino office parody manhwa-style
 
 **Post-Raise appearance (primary):** He stands upright. Perfectly upright — the posture of a man who no longer experiences fatigue. His expression is focused to the point of unsettling. He is holding a laptop, open, screen facing forward. The screen glows with spreadsheet data. His eyes reflect the screen light. He does not blink. He does not need to.
 
-**Clothing (Post-Raise):** The same office attire he was wearing when he broke — a slightly wrinkled polo shirt, dark office trousers. The clothes of a man who did not go home. He wears a company lanyard but the ID card faces inward. His sleeves are rolled up. He is *always* ready to work.
+**Clothing (Post-Raise):** The same office attire he was wearing when he broke — a slightly wrinkled polo shirt, dark office trousers. The clothes of a man who did not go home. He wears a company lanyard but the ID card faces inward. His sleeves are rolled up. He is _always_ ready to work.
 
 **Lighting:** The primary light source is his laptop screen — cold blue-green spreadsheet glow. Ambient fluorescent from above adds harsh overhead shadow. The combination makes him look like he is emerging from data itself.
 
@@ -35,7 +35,7 @@ Character illustration for "Solo Working," a Filipino office parody manhwa-style
 
 **Mood:** Terrifying competence. He is the most dangerous person in any meeting because he is always right. He will correct your numbers in front of your manager without hesitation, without cruelty, and without a single change in expression. He does not dislike you. He simply has the data.
 
-**Style:** Cinematic manhwa illustration. High contrast. Sharp linework. Filipino facial features. Post-Raise Shadow Worker aesthetic — not undead, not monstrous. Just *optimized.*
+**Style:** Cinematic manhwa illustration. High contrast. Sharp linework. Filipino facial features. Post-Raise Shadow Worker aesthetic — not undead, not monstrous. Just _optimized._
 
 **No text. No watermarks. No logos.**
 
@@ -47,4 +47,4 @@ Character illustration for "Solo Working," a Filipino office parody manhwa-style
 Rodel at a conference table. Everyone else is looking at a projected presentation. Rodel is looking at his laptop. His finger is raised slightly, about to speak. The speaker at the front of the room doesn't know yet. The audience doesn't know yet. Rodel knows. He always knows.
 
 **Variant B — Summoning Moment:**
-Rodel materializing from shadow behind Juan. He is mid-step, laptop already open. His expression is: *ready.* The fluorescent light above him flickers once as he arrives. He looks at the task. He says nothing. He begins.
+Rodel materializing from shadow behind Juan. He is mid-step, laptop already open. His expression is: _ready._ The fluorescent light above him flickers once as he arrives. He looks at the task. He says nothing. He begins.
